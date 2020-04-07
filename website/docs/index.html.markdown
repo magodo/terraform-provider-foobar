@@ -1,7 +1,6 @@
 ---
 layout: "foobar"
 page_title: "Provider: Foobar"
-sidebar_current: "docs-scaffolding-index"
 description: |-
   The Foobar provider is used to TODO.
 ---

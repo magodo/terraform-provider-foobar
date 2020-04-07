@@ -1,8 +1,9 @@
 package main
 
 import (
-	"github.com/magodo/terraform-provider-foobar/foobar"
 	"log"
+
+	"github.com/magodo/terraform-provider-foobar/foobar"
 
 	"github.com/hashicorp/terraform-plugin-sdk/plugin"
 	"github.com/hashicorp/terraform-plugin-sdk/terraform"
